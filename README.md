@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **xImDoctor/xImDoctor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- ok, let's start... -->
+<h1 align="center">Hi there, I am Andrew!
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">A young software developer from Russian Federation 🇷🇺.<br>There you can see some of my works😄</h3>
