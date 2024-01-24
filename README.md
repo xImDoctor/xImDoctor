@@ -28,6 +28,8 @@ I am working with C/C++, including Qt6, C# (Unity), and Python. Also I have some
 
 There are some of the latest below ✨✨✨
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=GuessTheWordGame&theme=dark)](https://github.com/xImDoctor/GuessTheWordGame)
+<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=myVector&theme=dark)](https://github.com/xImDoctor/myVector) 
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=WindowsConsoleColor&theme=dark)](https://github.com/xImDoctor/WindowsConsoleColor)
