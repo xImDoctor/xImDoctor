@@ -28,11 +28,11 @@ I am working with C/C++, including Qt6, C# (Unity), and Python. Also I have some
 
 There are some of the latest below ✨✨✨
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=SnakeConsoleGame&theme=dark)](https://github.com/xImDoctor/SnakeConsoleGame)
+<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=GuessTheWordGame&theme=dark)](https://github.com/xImDoctor/GuessTheWordGame)
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=myVector&theme=dark)](https://github.com/xImDoctor/myVector) 
-<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=WindowsConsoleColor&theme=dark)](https://github.com/xImDoctor/WindowsConsoleColor)
 
 They also can be seen in pinned repos for now)
 > But I guess it is just a beginning for this year⚡
