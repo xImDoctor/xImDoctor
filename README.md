@@ -32,7 +32,7 @@ There are some of the latest below ✨✨✨
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=GuessTheWordGame&theme=dark)](https://github.com/xImDoctor/GuessTheWordGame)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=myVector&theme=dark)](https://github.com/xImDoctor/myVector) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=docVector&theme=dark)](https://github.com/xImDoctor/docVector) 
 
 They also can be seen in pinned repos for now)
 > But I guess it is just a beginning for this year⚡
