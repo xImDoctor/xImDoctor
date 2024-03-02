@@ -48,7 +48,7 @@ Ohh, snake ate all my activity!1! How terrible😥
 
 
 ### Some achievements, btw
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ximdoctor" alt="ximdoctor" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ximdoctor&theme=onestar&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="ximdoctor" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ximdoctor&label=Profile%20views&color=0e75b6&style=flat" alt="ximdoctor" /> </p>
 
