@@ -41,12 +41,13 @@ I also started to use LeetCode. There are not many tasks solved, but you can wat
 
 [![ImDoctor's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ImDoctor&theme=dark)](https://github.com/xImDoctor/leetcode-stats)
 
+
 ###
 Ohh, snake ate all my activity!1! How terrible😥
 <img src="https://raw.githubusercontent.com/xImDoctor/xImDoctor/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 
-### Some achievements
+### Some achievements, btw
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ximdoctor" alt="ximdoctor" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ximdoctor&label=Profile%20views&color=0e75b6&style=flat" alt="ximdoctor" /> </p>
