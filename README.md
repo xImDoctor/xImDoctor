@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I am <a href="ximdoctor.github.io">Andrew!</a></h1>
+<h1 align="center">Hi there, I am <a href="https://ximdoctor.github.io">Andrew!</a></h1>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">A young software developer from Russian Federation 🇷🇺.<br>There you can see some of my works😄</h3>
 
