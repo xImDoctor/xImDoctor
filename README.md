@@ -37,11 +37,6 @@ They also can be seen in pinned repos for now)
 > But I guess it is just a beginning for this year⚡
 > I have some projects that I wanna share and I'll do it soon. So, you will be able to check it and make a feedback💬
 
-<br>
-I also started to use LeetCode. There are not many tasks solved, but you can watch it anyway.
-
-[![ImDoctor's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ImDoctor&theme=dark)](https://github.com/xImDoctor/leetcode-stats)
-
 
 ###
 Ohh, snake ate all my activity!1! How terrible😥
