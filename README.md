@@ -23,15 +23,15 @@ I am working with __C/C++__, including _Qt6_, __C#__ (_Unity_) and __Python__. A
 In this profile, now I represent my __C/C++ projects__, especially built in ```Visual Studio for Windows```, and my ```C++ Qt projects```. 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xImDoctor&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xImDoctor&langs_count=8&hide=html&theme=radical)
 
 There are some of the latest below ✨✨✨
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=SnakeConsoleGame&theme=dark)](https://github.com/xImDoctor/SnakeConsoleGame)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=SnakeConsoleGame&theme=radical)](https://github.com/xImDoctor/SnakeConsoleGame)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=GuessTheWordGame&theme=dark)](https://github.com/xImDoctor/GuessTheWordGame)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=GuessTheWordGame&theme=radical)](https://github.com/xImDoctor/GuessTheWordGame)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=docVector&theme=dark)](https://github.com/xImDoctor/docVector) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=docVector&theme=radical)](https://github.com/xImDoctor/docVector) 
 
 They also can be seen in pinned repos for now)
 > But I guess it is just a beginning for this year⚡
@@ -40,7 +40,7 @@ They also can be seen in pinned repos for now)
 #### Lab works 
 Shhh! 😉 For those who just knows... 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=html-css-js-labs&theme=dark)](https://github.com/xImDoctor/html-css-js-labs) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=html-css-js-labs&theme=radical)](https://github.com/xImDoctor/html-css-js-labs) 
 
 Or you can watch this page from **my github pages** *(smth like a website you know)*. [Just click here](https://ximdoctor.github.io)
 
