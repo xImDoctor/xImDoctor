@@ -37,13 +37,19 @@ They also can be seen in pinned repos for now)
 > But I guess it is just a beginning for this year⚡
 > I have some projects that I wanna share and I'll do it soon. So, you will be able to check it and make a feedback💬
 
+#### Lab works 
+Shhh! 😉 For those who just knows... 
 
-###
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=html-css-js-labs&theme=dark)](https://github.com/xImDoctor/html-css-js-labs) 
+
+Or you can watch this page from **my github pages** *(smth like a website you know)*. [Just click here](https://ximdoctor.github.io)
+
+### Activity moment
 Ohh, snake ate all my activity!1! How terrible😥
 <img src="https://raw.githubusercontent.com/xImDoctor/xImDoctor/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 
-### Some achievements, btw
+### Some achievements, btw ✌️
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ximdoctor&theme=onestar&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="ximdoctor" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ximdoctor&label=Profile%20views&color=0e75b6&style=flat" alt="ximdoctor" /> </p>
