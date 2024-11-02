@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A young software developer from Russian Federation 🇷🇺.<br>There you can see some of my works😄</h3>
 
 
-I am working with __C/C++__, including _Qt6_, __C#__ (_Unity_) and __Python__. Also I start practicing in __HTML__, __CSS__ 🤔.  
+I am working with __C/C++__, including _Qt6_, __C#__ (_Unity_) and __Python__. Also I start practicing in __HTML__, __CSS__, __JS__ and __PHP__ 🤔.  
 In this profile, now I represent my __C/C++ projects__, especially built in ```Visual Studio for Windows```, and my ```C++ Qt projects```. 
 
 
