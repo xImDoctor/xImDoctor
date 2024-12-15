@@ -40,7 +40,7 @@ They also can be seen in pinned repos for now)
 Shhh! 😉 For those who just knows... 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=html-css-js-labs&theme=radical)](https://github.com/xImDoctor/html-css-js-labs) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=з=php-labs&theme=radical)](https://github.com/xImDoctor/php-labs) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=php-labs&theme=radical)](https://github.com/xImDoctor/php-labs) 
 
 Or you can watch this page from **my github pages** *(smth like a website you know)*. [Just click here](https://ximdoctor.github.io)
 
