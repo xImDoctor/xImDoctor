@@ -34,13 +34,13 @@ There are some of the latest below ✨✨✨
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=docVector&theme=radical)](https://github.com/xImDoctor/docVector) 
 
 They also can be seen in pinned repos for now)
-> But I guess it is just a beginning for this year⚡
 > I have some projects that I wanna share and I'll do it soon. So, you will be able to check it and make a feedback💬
 
 #### Lab works 
 Shhh! 😉 For those who just knows... 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=html-css-js-labs&theme=radical)](https://github.com/xImDoctor/html-css-js-labs) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=з=php-labs&theme=radical)](https://github.com/xImDoctor/php-labs) 
 
 Or you can watch this page from **my github pages** *(smth like a website you know)*. [Just click here](https://ximdoctor.github.io)
 
