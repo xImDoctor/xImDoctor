@@ -25,13 +25,18 @@ In this profile, now I represent my __C/C++ projects__, especially built in ```V
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xImDoctor&langs_count=8&hide=html&theme=radical)
 
-There are some of the latest below ✨✨✨
+✨✨✨ There are some of the latest below
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=SnakeConsoleGame&theme=radical)](https://github.com/xImDoctor/SnakeConsoleGame)
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=GuessTheWordGame&theme=radical)](https://github.com/xImDoctor/GuessTheWordGame)
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=docVector&theme=radical)](https://github.com/xImDoctor/docVector) 
+
+
+🌱🌱🌱 Сurrently I am working on this project:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=eat-the-letter&theme=radical)](https://github.com/xImDoctor/eat-the-letter)
 
 They also can be seen in pinned repos for now)
 > I have some projects that I wanna share and I'll do it soon. So, you will be able to check it and make a feedback💬
