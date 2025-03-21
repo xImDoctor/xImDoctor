@@ -18,12 +18,19 @@ Here are some ideas to get you started:
 </h1>
 <h3 align="center">A young software developer from Russian Federation 🇷🇺.<br>There you can see some of my works😄</h3>
 
+## About me
 
-I am working with __C/C++__, including _Qt6_, __C#__ (_Unity_) and __Python__. Also I start practicing in __HTML__, __CSS__, __JS__ and __PHP__ 🤔.  
-In this profile, now I represent my __C/C++ projects__, especially built in ```Visual Studio for Windows```, and my ```C++ Qt projects```. 
+I am working with __C/C++__, including _Qt6_, __C#__ (_Unity_) and __Python__.
+> My current field of interest are Machine Learning and C++ as well.
+
+Also I practiced in __HTML/CSS__, __JS__ and __PHP__ 😎. There are some repos with it.
+
+But mostly in this profile I present my __C/C++ projects__, especially built in ```Visual Studio for Windows```, and my ```C++ Qt projects```. 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xImDoctor&langs_count=8&hide=html&theme=radical)
+
+## My code
 
 ✨✨✨ There are some of the latest below
 
@@ -49,12 +56,12 @@ Shhh! 😉 For those who just knows...
 
 Or you can watch this page from **my github pages** *(smth like a website you know)*. [Just click here](https://ximdoctor.github.io)
 
-### Activity moment
+## Activity moment
 Ohh, snake ate all my activity!1! How terrible😥
 <img src="https://raw.githubusercontent.com/xImDoctor/xImDoctor/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 
-### Some achievements, btw ✌️
+## Some achievements, btw ✌️
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ximdoctor&theme=onestar&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="ximdoctor" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ximdoctor&label=Profile%20views&color=0e75b6&style=flat" alt="ximdoctor" /> </p>
