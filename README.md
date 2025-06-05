@@ -20,6 +20,13 @@ But mostly in this profile I present my __C/C++ projects__, especially built in 
 
 ✨✨✨ There are some of the latest below
 
+🆕Latest project:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=xlib-maze-game&theme=radical)](https://github.com/xImDoctor/xlib-maze-game) 
+<br>
+
+📃Other repos:
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=SnakeConsoleGame&theme=radical)](https://github.com/xImDoctor/SnakeConsoleGame)
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=GuessTheWordGame&theme=radical)](https://github.com/xImDoctor/GuessTheWordGame)
@@ -27,8 +34,9 @@ But mostly in this profile I present my __C/C++ projects__, especially built in 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=docVector&theme=radical)](https://github.com/xImDoctor/docVector) 
 
 
-🌱🌱🌱 Сurrently I am working on this project:
+🌱🌱🌱 Сurrently I am working on these projects:
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=xlib-maze-game&theme=radical)](https://github.com/xImDoctor/xlib-maze-game)<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=eat-the-letter&theme=radical)](https://github.com/xImDoctor/eat-the-letter)
 
 They also can be seen in pinned repos for now)
