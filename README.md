@@ -14,7 +14,7 @@ Also I practiced in __HTML/CSS__, __JS__ and __PHP__ 😎. There are some repos 
 
 But mostly in this profile I present my __C/C++ projects__, especially built in ```Visual Studio for Windows```, and my ```C++ Qt projects```.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xImDoctor&langs_count=8&hide=html,hack&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xImDoctor&hide=html,hack&theme=radical&langs_count=10)
 
 ## My code
 
