@@ -46,8 +46,9 @@ They also can be seen in pinned repos for now)
 ### Data Analysis projects
 Some simple data analysis and visualisation projects on `Python` powered by `Streamlit` 🙂
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=Streamlit1&theme=radical)](https://github.com/xImDoctor/Streamlit1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=gym-experience-prediction&theme=radical)](https://github.com/xImDoctor/gym-experience-prediction)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=house-price-predict-test&theme=radical)](https://github.com/xImDoctor/house-price-predict-test)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=Streamlit1&theme=radical)](https://github.com/xImDoctor/Streamlit1)
 
 #### Lab works 
 Shhh! 😉 For those who just knows...
