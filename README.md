@@ -22,6 +22,7 @@ But mostly in this profile I present my __C/C++ projects__, especially built in 
 
 🆕Latest project:
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=hand-crnn-app&theme=radical)](https://github.com/xImDoctor/hand-crnn-app) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=xlib-maze-game&theme=radical)](https://github.com/xImDoctor/xlib-maze-game) 
 <br>
 
@@ -46,18 +47,18 @@ They also can be seen in pinned repos for now)
 ### Data Analysis projects
 Some simple data analysis and visualisation projects on `Python` powered by `Streamlit` 🙂
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=hand-crnn-app&theme=radical)](https://github.com/xImDoctor/hand-crnn-app) as my course work😎<br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=gym-experience-prediction&theme=radical)](https://github.com/xImDoctor/gym-experience-prediction)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=house-price-predict-test&theme=radical)](https://github.com/xImDoctor/house-price-predict-test)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=Streamlit1&theme=radical)](https://github.com/xImDoctor/Streamlit1)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=house-price-predict-test&theme=radical)](https://github.com/xImDoctor/house-price-predict-test) -->
 
 #### Lab works 
-Shhh! 😉 For those who just knows...
+Shhh! 😉 For those who just knows... You can also watch this page from [**my github pages**](https://ximdoctor.github.io).
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=html-css-js-labs&theme=radical)](https://github.com/xImDoctor/html-css-js-labs) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=php-labs&theme=radical)](https://github.com/xImDoctor/php-labs) 
 
-Or you can watch this page from **my github pages** *(smth like a website you know)*. [Just click here](https://ximdoctor.github.io)
-> but also they may lose relevance over time 😢
+> With the high probability they already lost their relevance but you can still watch them.
 
 ## Activity moment
 Ohh, snake ate all my activity!1! How terrible😥
