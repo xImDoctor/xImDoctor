@@ -10,10 +10,54 @@
 
 I am working with various technologies across different domains, with a focus on `Machine Learning` and **Python**, **C/C++** development with `Qt6`, `VS`, `gcc`, and also **C#** (`Unity`).
 
-> I also want to introduce you to several projects of **system coding** for `UNIX` with `C lang` and `Xlib 11` btw, I hope to complete them soon.
+---
 
-Also I practiced in __HTML/CSS__, __JS__ and __PHP__ 😎. There are some repos with it.
 
+## 💻 Tech Stack & Skills
+
+<!-- ### 🔤 Programming Languages -->
+<div align="center">
+  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+</div>
+
+<!-- ### 🌐 Web Technologies -->
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+</div>
+
+<!-- ### 🛠️ Development Tools & Technologies -->
+<div align="center">
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC-00599C?style=for-the-badge&logo=gnu&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
+</div>
+
+<!-- ### 🚀 Specializations -->
+<div align="center">
+
+![System Programming](https://img.shields.io/badge/System%20Programming-4EAA25?style=for-the-badge&logo=linux&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white)
+<!-- ![NFT](https://img.shields.io/badge/NFT%20Market-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white) -->
+
+</div>
 
 <div align="center">
   
