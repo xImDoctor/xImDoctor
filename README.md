@@ -10,10 +10,7 @@
 
 I am working with various technologies across different domains, with a focus on `Machine Learning` and **Python**, **C/C++** development with `Qt6`, `VS`, `gcc`, and also **C#** (`Unity`).
 
----
-
-
-## 💻 Tech Stack & Skills
+### 💻 Tech Stack & Skills
 
 <!-- ### 🔤 Programming Languages -->
 <div align="center">
