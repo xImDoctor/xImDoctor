@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, I am <a href="https://ximdoctor.github.io">Andrew!</a>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" style="height:32px;"/>
 </h1>
 <h3 align="center">A young software developer from Russian Federation 🇷🇺.<br>There you can see some of my works😄</h3>
 
