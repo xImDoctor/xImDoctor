@@ -97,8 +97,7 @@ I am working with various technologies across different domains, with a focus on
 - The server and `UNIX/Linux` client
 - Both can be built using provided `makefile` and *instructions* in the `readme`
 - Client graphics (interface) realization with `Xlib 11`
-- The server works asynchronously and is not tied to `UNIX`, can be run on `Windows` or `Mac`.
-- Currently under development (**polishing**, but already works)
+- Currently under development (**polishing** and improving UI, but already works)
 - Windows console client in plans
 
 </td></tr>
