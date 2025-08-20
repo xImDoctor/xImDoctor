@@ -99,6 +99,8 @@ I am working with various technologies across different domains, with a focus on
 - Client graphics (interface) realization with `Xlib 11`
 - Currently under development (**polishing** and improving UI, but already works)
 - Windows console client in plans
+<br>
+
 
 </td></tr>
 </table></div>
