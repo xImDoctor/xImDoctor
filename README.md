@@ -234,7 +234,7 @@ Some simple data analysis and visualisation projects on `Python` powered by `Str
 </td>
 <td width="50%">
 
-[![Streamlit1](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=Streamlit1&theme=radical)](https://github.com/xImDoctor/Streamlit1)
+[![streamlit-dashboard](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=streamlit-dashboard&theme=radical)](https://github.com/xImDoctor/streamlit-dashboard)
 
 **📊 Streamlit Dashboard**
 - Interactive data visualization
@@ -247,7 +247,7 @@ Some simple data analysis and visualisation projects on `Python` powered by `Str
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=hand-crnn-app&theme=radical)](https://github.com/xImDoctor/hand-crnn-app) as my course work😎<br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=gym-experience-prediction&theme=radical)](https://github.com/xImDoctor/gym-experience-prediction)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=Streamlit1&theme=radical)](https://github.com/xImDoctor/Streamlit1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=streamlit-dashboard&theme=radical)](https://github.com/xImDoctor/streamlit-dashboard)
 -- >
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=house-price-predict-test&theme=radical)](https://github.com/xImDoctor/house-price-predict-test) -->
 
