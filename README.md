@@ -65,6 +65,11 @@ I am working with various technologies across different domains, with a focus on
 
 ## 🎯 Featured Projects
 
+1. [Latest works](#-latest-work)
+2. [Data Analysis & Machine Learning](#-data-analysis--ml-projects)
+3. [Academic (lab) works](#-academic-work)
+4. [List of other projects](#-other-projects)
+
 ✨✨✨ There are some of the latest below
 
 ### 🆕 Latest Work
@@ -104,6 +109,25 @@ I am working with various technologies across different domains, with a focus on
 
 
 </td></tr>
+<tr>
+<td width="50%">
+
+[![xlib-maze-game](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=AndEngine&theme=radical)](https://github.com/xImDoctor/AndEngine)
+
+**🎮 AndEngine**
+- 2.5D (pseudo-3D) Game Engine
+- Inspired by classic games like **Doom**.
+- Started with C++ and is in progress now
+- Currently made Raycasting renderer both with `step-based` and `DDA` algorithms
+- Realization with `WindowsAPI` as the console rendering and input system
+- Implemented deltaTime mechanism
+- In the process of migration to `OpenGL` technology as main renderer
+  
+</td>
+<td>
+  
+</td>
+</tr>
 </table></div>
 
 <!--
@@ -178,16 +202,24 @@ I am working with various technologies across different domains, with a focus on
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=AndEngine&theme=radical)](https://github.com/xImDoctor/AndEngine)
+
+</td>
+<td width="33%">
 
 [![xlib-maze-game](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=xlib-maze-game&theme=radical)](https://github.com/xImDoctor/xlib-maze-game)
 
 </td>
-<td width="50%">
+<td width="33%">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=eat-the-letter&theme=radical)](https://github.com/xImDoctor/eat-the-letter)
 
 </td>
+</tr>
+<tr>
+  
 </tr>
 </table>
 </div>
@@ -200,7 +232,7 @@ I am working with various technologies across different domains, with a focus on
 -->
 ---
 ## 🔬 Data Analysis & ML Projects
-Some simple data analysis and visualisation projects on `Python` powered by `Streamlit` 🙂
+Some data analysis and visualisation projects on `Python`, especially powered by `Streamlit` 🙂
 
 <div align="center">
 <table>
