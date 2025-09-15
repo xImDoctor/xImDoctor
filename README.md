@@ -66,9 +66,10 @@ I am working with various technologies across different domains, with a focus on
 ## 🎯 Featured Projects
 
 1. [Latest works](#-latest-work)
-2. [Data Analysis & Machine Learning](#-data-analysis--ml-projects)
-3. [Academic (lab) works](#-academic-work)
-4. [List of other projects](#-other-projects)
+   -  [Currentrly working on](#-currenly-i-am-working-on)
+3. [Data Analysis & Machine Learning](#-data-analysis--ml-projects)
+4. [Academic (lab) works](#-academic-work)
+5. [List of other projects](#-other-projects)
 
 ✨✨✨ There are some of the latest below
 
