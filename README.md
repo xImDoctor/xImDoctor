@@ -66,7 +66,7 @@ I am working with various technologies across different domains, with a focus on
 ## 🎯 Featured Projects
 
 1. [Latest works](#-latest-work)
-   -  [Currentrly working on](#-currenly-i-am-working-on)
+   -  [Currently working on](#-currently-i-am-working-on)
 3. [Data Analysis & Machine Learning](#-data-analysis--ml-projects)
 4. [Academic (lab) works](#-academic-work)
 5. [List of other projects](#-other-projects)
@@ -198,7 +198,7 @@ I am working with various technologies across different domains, with a focus on
 -->
 
 
-### 🌱 Currenly I am working on
+### 🌱 Currently I am working on
 
 <div align="center">
 <table>
