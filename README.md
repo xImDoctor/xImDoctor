@@ -125,7 +125,17 @@ I am working with various technologies across different domains, with a focus on
 - In the process of migration to `OpenGL` technology as main renderer
   
 </td>
-<td>
+<td width="50%">
+
+[![Flotilla](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=Flotilla&theme=radical)](https://github.com/xImDoctor/Flotilla)
+
+**⚓ Flotilla**
+- Modern realization of classical naval battle formula
+- Realization directly with `Android Studio` and `Kotlin`, no game engines (like `Unity`)
+- Multiplayer game mode with working backed server (**now online**). You can already try matchmaking with your friends, admiral!
+- UI with `Jetpack Compose`, currently added Music & VFX.
+- Latest APK release is currently in the repository!
+- UPD: I know about some `APK` issues and work on fixing them. Fixes will be released as soon as possible.
   
 </td>
 </tr>
@@ -203,17 +213,22 @@ I am working with various technologies across different domains, with a focus on
 <div align="center">
 <table>
 <tr>
-<td width="33%">
+<td width="25%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=AndEngine&theme=radical)](https://github.com/xImDoctor/AndEngine)
+[![Flotilla](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=Flotilla&theme=radical)](https://github.com/xImDoctor/Flotilla)
 
 </td>
-<td width="33%">
+<td width="25%">
+
+[![AndEngine](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=AndEngine&theme=radical)](https://github.com/xImDoctor/AndEngine)
+
+</td>
+<td width="25%">
 
 [![xlib-maze-game](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=xlib-maze-game&theme=radical)](https://github.com/xImDoctor/xlib-maze-game)
 
 </td>
-<td width="33%">
+<td width="25%">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=eat-the-letter&theme=radical)](https://github.com/xImDoctor/eat-the-letter)
 
@@ -323,10 +338,13 @@ Ohh, snake ate all my activity!1! How terrible😥
 
 ---
 
+<!-- Removed because badge does not work now -->
+<!--
 ## ✌️ Some stats & achievements btw 
 
 <div align="center">
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ximdoctor&theme=onestar&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="ximdoctor" /></a></p>
+-->
 
 <p><img src="https://komarev.com/ghpvc/?username=ximdoctor&label=Profile%20views&color=0e75b6&style=flat" alt="ximdoctor" /></p>
 </div>
