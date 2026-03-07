@@ -215,22 +215,17 @@ I am working with various technologies across different domains, with a focus on
 <div align="center">
 <table>
 <tr>
-<td width="25%">
-
-[![Flotilla](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=Flotilla&theme=radical)](https://github.com/xImDoctor/Flotilla)
-
-</td>
-<td width="25%">
+<td width="33%">
 
 [![AndEngine](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=AndEngine&theme=radical)](https://github.com/xImDoctor/AndEngine)
 
 </td>
-<td width="25%">
+<td width="33%">
 
 [![xlib-maze-game](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=xlib-maze-game&theme=radical)](https://github.com/xImDoctor/xlib-maze-game)
 
 </td>
-<td width="25%">
+<td width="33%">
 
 [![Eat the letter](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=eat-the-letter&theme=radical)](https://github.com/xImDoctor/eat-the-letter)
 
