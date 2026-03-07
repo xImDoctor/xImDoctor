@@ -171,7 +171,7 @@ I am working with various technologies across different domains, with a focus on
 **🔤 Guess The Word Game**
 - Interactive Russian word guessing
 - Game logic implementation
-- Console-based interace with **color changing** using `Windows API`
+- Console-based interface with **color changing** using `Windows API`
 - Sample the pen before creating the **snake console variation**.
 
 </td></tr>
@@ -230,7 +230,7 @@ I am working with various technologies across different domains, with a focus on
 </td>
 <td width="25%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=eat-the-letter&theme=radical)](https://github.com/xImDoctor/eat-the-letter)
+[![Eat the letter](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=eat-the-letter&theme=radical)](https://github.com/xImDoctor/eat-the-letter)
 
 </td>
 </tr>
@@ -255,12 +255,24 @@ Some data analysis and visualisation projects on `Python`, especially powered by
 <tr>
 <td width="50%">
 
+[![hme-recognition-app](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=hme-recognition-app&theme=radical)](https://github.com/xImDoctor/hme-recognition-app)
+
+**🔢 Handwritten Mathematics Expessions Recognition App**
+- Machine Learning project as the second **course work**
+- Fine-tuned using `HME100K` transformer model for HMER problem
+- Recognizes handwritten expression and turns them to `LaTeX` with preview and export
+
+</td>
+<td width="50%">
+
 [![hand-crnn-app](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=hand-crnn-app&theme=radical)](https://github.com/xImDoctor/hand-crnn-app)
 
 **✍️ Hand Recognition CRNN App**
 - Machine Learning project as **course work**
 - Realization of interactive app with `Streamlit`
 - Neural network for Russian handwriting recognition
+
+<br>
 
 </td>
 </tr>
