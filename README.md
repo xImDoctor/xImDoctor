@@ -57,11 +57,13 @@ I am working with various technologies across different domains, with a focus on
 
 </div>
 
+<!-- commented because does not work now
 <div align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xImDoctor&hide=html,hack,css&theme=radical&langs_count=10)
 
 </div>
+-->
 
 ## 🎯 Featured Projects
 
@@ -257,7 +259,7 @@ Some data analysis and visualisation projects on `Python`, especially powered by
 
 [![hme-recognition-app](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=hme-recognition-app&theme=radical)](https://github.com/xImDoctor/hme-recognition-app)
 
-**🔢 Handwritten Mathematics Expessions Recognition App**
+**🔢 Handwritten Mathematical Expessions Recognition App**
 - Machine Learning project as the second **course work**
 - Fine-tuned using `HME100K` transformer model for HMER problem
 - Recognizes handwritten expression and turns them to `LaTeX` with preview and export
