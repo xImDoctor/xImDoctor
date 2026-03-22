@@ -280,7 +280,7 @@ The idea of the project is to analyze student engagement when watching education
 
 [![GuessTheWordGame](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=GuessTheWordGame&theme=radical)](https://github.com/xImDoctor/GuessTheWordGame)
 
-**🔤 Guess The Word Game**
+**🔤 Guess The Word Game** `archived`
 - Interactive Russian word guessing
 - Game logic implementation
 - Console-based interface with **color changing** using `Windows API`
@@ -302,7 +302,7 @@ The idea of the project is to analyze student engagement when watching education
 
 [![eat-the-letter](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=eat-the-letter&theme=radical)](https://github.com/xImDoctor/eat-the-letter)
 
-**🖼️ Eat The Letter**
+**🖼️ Eat The Letter** `abandoned now`
 - A program for creating ASCII art and printing it
 - Realization with `C/C++` using `Windows API` (for `Windows` with *console interface*)
 - The concept originated in an academic discipline
