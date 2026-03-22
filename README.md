@@ -2,29 +2,30 @@
 <h1 align="center">Hi there, I am <a href="https://ximdoctor.github.io">Andrew!</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" style="height:32px;"/>
 </h1>
-<h3 align="center">A young software developer from Russian Federation 🇷🇺.<br>There you can see some of my works😄</h3>
+<h3 align="center">Software developer from Russia 🇷🇺 · ML enthusiast · Systems and game dev explorer</h3>
 
 ---
 
 ## 🗃️ About me
 
-I am working with various technologies across different domains, with a focus on `Machine Learning` and **Python**, **C/C++** development with `Qt6`, `VS`, `gcc`, and also **C#** (`Unity`).
+I work with varios technologies across muliple domains - **from Machine Learning** and **Data Analysis** in Python to **system-level C/C++**, **game dev** and **mobile apps** with **C#** `Unity` and `Kotlin`.
 
 ### 💻 Tech Stack & Skills
 
-<!-- ### 🔤 Programming Languages -->
+<!-- Programming Languages -->
 <div align="center">
-  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-crimson?style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<!-- ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) -->
 
 </div>
 
-<!-- ### 🌐 Web Technologies -->
+<!-- Web -->
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,25 +35,34 @@ I am working with various technologies across different domains, with a focus on
 
 </div>
 
-<!-- ### 🛠️ Development Tools & Technologies -->
+<!-- Tools and frameworks -->
 <div align="center">
 
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![GCC](https://img.shields.io/badge/GCC-00599C?style=for-the-badge&logo=gnu&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 </div>
 
-<!-- ### 🚀 Specializations -->
+<!-- Specializations -->
 <div align="center">
 
 ![System Programming](https://img.shields.io/badge/System%20Programming-4EAA25?style=for-the-badge&logo=linux&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white)
+<!-- ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white) -->
 <!-- ![NFT](https://img.shields.io/badge/NFT%20Market-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white) -->
 
 </div>
@@ -65,21 +75,32 @@ I am working with various technologies across different domains, with a focus on
 </div>
 -->
 
-## 🎯 Featured Projects
+## 🎯 Featured Projects Nav
 
-1. [Latest works](#-latest-work)
-   -  [Currently working on](#-currently-i-am-working-on)
-3. [Data Analysis & Machine Learning](#-data-analysis--ml-projects)
-4. [Academic (lab) works](#-academic-work)
-5. [List of other projects](#-other-projects)
+1. [Machine Learning & Data Analysis](#-machine-learning--data-analysis)
+2. [Mentor works](#%E2%80%8D-mentoring)
+3. [Games & Interesting projects](#-games--interesting-projects)
+4. [List of other projects](#-other-projects)
+5. [Academic (lab) works](#-academic-work)
+<!-- 6. [Currently working on](#-currently-i-am-working-on) -->
 
-✨✨✨ There are some of the latest below
+## 🔬 Machine Learning & Data Analysis
 
-### 🆕 Latest Work
+Core ML projects - course works and research.
 
 <div align="center">
 <table>
 <tr>
+<td width="50%">
+
+[![hme-recognition-app](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=hme-recognition-app&theme=radical)](https://github.com/xImDoctor/hme-recognition-app)
+
+**🔢 Handwritten Math Expessions Recognition App**
+- Machine Learning project as the second **course work**
+- Fine-tuned using `HME100K` transformer model for HMER problem
+- Recognizes handwritten expression and turns them to `LaTeX` with preview and export
+
+</td>
 <td width="50%">
 
 [![hand-crnn-app](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=hand-crnn-app&theme=radical)](https://github.com/xImDoctor/hand-crnn-app)
@@ -87,37 +108,100 @@ I am working with various technologies across different domains, with a focus on
 **✍️ Hand Recognition CRNN App**
 - Machine Learning project as **course work**
 - Realization of interactive app with `Streamlit`
-- Neural network for Russian handwriting recognition
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+- Model for Russian handwriting recognition made by me
+- End-to-end pipeline: image -> recognized text fragments
 
+</td>
+</tr>
+</table>
+</div>
+
+#### 📊 Additional DA/ML Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+[![gym-experience-prediction](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=gym-experience-prediction&theme=radical)](https://github.com/xImDoctor/gym-experience-prediction)
+
+**💪 Gym Experience Prediction**
+- ML model built & visualized directly in the app (training pipeline included)
+- Predictive analytics powered with `Streamlit` app
+
+<br>
 
 </td>
 <td width="50%">
 
-[![xlib-maze-game](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=xlib-maze-game&theme=radical)](https://github.com/xImDoctor/xlib-maze-game)
+[![signal-modeling](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=signal-modeling&theme=radical)](https://github.com/xImDoctor/signal-modeling)
 
-**🕹️ Xlib Maze Game**
-- System programming with C
-- The server and `UNIX/Linux` client
-- Both can be built using provided `makefile` and *instructions* in the `readme`
-- Client graphics (interface) realization with `Xlib 11`
-- Currently under development (**polishing** and improving UI, but already works)
-- Windows console client in plans
+**📡 Signal Modeling**
+- Math modeling project for signal processing
+- Python library-like architecture
+- Basic tools to built and analyze artificial signals
+
 <br>
 
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-</td></tr>
+[![streamlit-dashboard](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=streamlit-dashboard&theme=radical)](https://github.com/xImDoctor/streamlit-dashboard)
+
+**📊 Streamlit Dashboard**
+- Interactive data visualization & analytics
+- Web-based `Streamlit` interface
+- One of the first `Streamlit` desks by me
+
+<br>
+
+</td>
+<td width="50%">
+
+[![LLM-integration](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=LLM-integration&theme=radical)](https://github.com/xImDoctor/LLM-integration)
+
+**🤖 LLM Integration**
+- Mini web-app for `Ollama` LLM integration
+- JavaScript-based interface
+- Model *reasoning* display, chat history and its management
+
+<br>
+
+</td>
+</tr>
+</table>
+</div>
+
+## 🧑‍🏫 Mentoring
+
+As a mentor at **Sirius Summer** project team I supervise the following project:
+
+<div align="center">
+<table>
+<tr>
+<td>
+
+[![determining-the-degree-of-involvement](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=determining-the-degree-of-involvement&theme=radical)](https://github.com/xImDoctor/determining-the-degree-of-involvement)
+
+</td>
+</tr>
+</table>
+
+The idea of the project is to analyze student engagement when watching educational videos through the use of neural networks to determine emotions, eye condition, and head position.
+</div>
+
+## 🎮 Games & Interesting Projects
+
+<div align="center">
+<table>
 <tr>
 <td width="50%">
 
 [![xlib-maze-game](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=AndEngine&theme=radical)](https://github.com/xImDoctor/AndEngine)
 
-**🎮 AndEngine**
+**🎮 AndEngine** `in progress`
 - 2.5D (pseudo-3D) Game Engine
 - Inspired by classic games like **Doom**.
 - Started with C++ and is in progress now
@@ -125,36 +209,35 @@ I am working with various technologies across different domains, with a focus on
 - Realization with `WindowsAPI` as the console rendering and input system
 - Implemented deltaTime mechanism
 - In the process of migration to `OpenGL` technology as main renderer
-  
 </td>
 <td width="50%">
 
 [![Flotilla](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=Flotilla&theme=radical)](https://github.com/xImDoctor/Flotilla)
 
-**⚓ Flotilla**
+**⚓ Flotilla** `in progress` `server offline`
 - Modern realization of classical naval battle formula
 - Realization directly with `Android Studio` and `Kotlin`, no game engines (like `Unity`)
 - Multiplayer game mode with working backed server (**now online**). You can already try matchmaking with your friends, admiral!
 - UI with `Jetpack Compose`, currently added Music & VFX.
 - Latest APK release is currently in the repository!
 - UPD: I know about some `APK` issues and work on fixing them. Fixes will be released as soon as possible.
-  
+
 </td>
 </tr>
-</table></div>
-
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=hand-crnn-app&theme=radical)](https://github.com/xImDoctor/hand-crnn-app) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=xlib-maze-game&theme=radical)](https://github.com/xImDoctor/xlib-maze-game) 
--->
-<br>
-
-### 📂 Other Projects
-
-
-<div align="center">
-<table>
 <tr>
+<td width="50%">
+
+[![xlib-maze-game](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=xlib-maze-game&theme=radical)](https://github.com/xImDoctor/xlib-maze-game)
+
+**🕹️ Xlib Maze Game** `on hold`
+- System programming with C
+- The server and `UNIX/Linux` client
+- Both can be built using provided `makefile` and *instructions* in the `readme`
+- Client graphics (interface) realization with `Xlib 11`
+- Currently under development (**polishing** and improving UI, but already works)
+- Windows console client in plans
+
+</td>
 <td width="50%">
 
 [![SnakeConsoleGame](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=SnakeConsoleGame&theme=radical)](https://github.com/xImDoctor/SnakeConsoleGame)
@@ -164,6 +247,33 @@ I am working with various technologies across different domains, with a focus on
 - Console-based interface with **dynamic redrawing**, **colored**, **music playing** using `Windows API`
 - C++ programming
 - Project in `Visual Studio 2019`
+
+<br>
+
+<br>
+
+</td>
+</tr>
+</table>
+</div>
+
+### 📂 Other Projects
+
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+[![px2txt](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=px2txt&theme=radical)](https://github.com/xImDoctor/px2txt)
+
+**🔡 px2txt**
+- Pixel to text conversion tool
+- Documental concept (with full processing plan)
+
+<br>
+
+<br>
 
 </td>
 <td width="50%>
@@ -201,125 +311,26 @@ I am working with various technologies across different domains, with a focus on
 </td></tr>
 </table></div>
 
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=SnakeConsoleGame&theme=radical)](https://github.com/xImDoctor/SnakeConsoleGame)
-<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=GuessTheWordGame&theme=radical)](https://github.com/xImDoctor/GuessTheWordGame)
-<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=docVector&theme=radical)](https://github.com/xImDoctor/docVector) 
--->
-
-
-### 🌱 Currently I am working on
-
-<div align="center">
-<table>
-<tr>
-<td width="33%">
-
-[![AndEngine](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=AndEngine&theme=radical)](https://github.com/xImDoctor/AndEngine)
-
-</td>
-<td width="33%">
-
-[![xlib-maze-game](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=xlib-maze-game&theme=radical)](https://github.com/xImDoctor/xlib-maze-game)
-
-</td>
-<td width="33%">
-
-[![Eat the letter](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=eat-the-letter&theme=radical)](https://github.com/xImDoctor/eat-the-letter)
-
-</td>
-</tr>
-<tr>
-  
-</tr>
-</table>
-</div>
-
 > Provided projects also can be seen in pinned repos, primarily the latest ones
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=xlib-maze-game&theme=radical)](https://github.com/xImDoctor/xlib-maze-game)<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=eat-the-letter&theme=radical)](https://github.com/xImDoctor/eat-the-letter)
 -->
----
-## 🔬 Data Analysis & ML Projects
-Some data analysis and visualisation projects on `Python`, especially powered by `Streamlit` 🙂
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
+## 🎓 Academic Work
 
-[![hme-recognition-app](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=hme-recognition-app&theme=radical)](https://github.com/xImDoctor/hme-recognition-app)
-
-**🔢 Handwritten Mathematical Expessions Recognition App**
-- Machine Learning project as the second **course work**
-- Fine-tuned using `HME100K` transformer model for HMER problem
-- Recognizes handwritten expression and turns them to `LaTeX` with preview and export
-
-</td>
-<td width="50%">
-
-[![hand-crnn-app](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=hand-crnn-app&theme=radical)](https://github.com/xImDoctor/hand-crnn-app)
-
-**✍️ Hand Recognition CRNN App**
-- Machine Learning project as **course work**
-- Realization of interactive app with `Streamlit`
-- Neural network for Russian handwriting recognition
-
+<details>
+<summary>Shhh! 🤫 Lab works for those who just knows... Web development, PHP, Java & more</summary>
 <br>
 
-</td>
-</tr>
-</table>
-</div>
-
+You can also check this from [**my GitHub Pages**](https://ximdoctor.github.io).
 
 <div align="center">
 <table>
 <tr>
 <td width="50%">
 
-[![gym-experience-prediction](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=gym-experience-prediction&theme=radical)](https://github.com/xImDoctor/gym-experience-prediction)
-
-**💪 Gym Experience Prediction**
-- Machine learning model makes directly in the app
-- Data analysis and visualization
-- Predictive analytics
-
-</td>
-<td width="50%">
-
-[![streamlit-dashboard](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=streamlit-dashboard&theme=radical)](https://github.com/xImDoctor/streamlit-dashboard)
-
-**📊 Streamlit Dashboard**
-- Interactive data visualization
-- Python-powered analytics
-- Web-based interface with `Streamlit`
-
-</td></tr>
-</table></div>
-
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=hand-crnn-app&theme=radical)](https://github.com/xImDoctor/hand-crnn-app) as my course work😎<br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=gym-experience-prediction&theme=radical)](https://github.com/xImDoctor/gym-experience-prediction)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=streamlit-dashboard&theme=radical)](https://github.com/xImDoctor/streamlit-dashboard)
--- >
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=house-price-predict-test&theme=radical)](https://github.com/xImDoctor/house-price-predict-test) -->
-
----
-## 🎓 Academic Work
-#### 🤫 Lab Works (web-development and php)
-Shhh! 😉 For those who just knows... You can also watch this page from [**my github pages**](https://ximdoctor.github.io).
-
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-  
 **🌐 Web Development Labs**
 
 [![html-css-js-labs](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=html-css-js-labs&theme=radical)](https://github.com/xImDoctor/html-css-js-labs)
@@ -329,15 +340,41 @@ Shhh! 😉 For those who just knows... You can also watch this page from [**my g
 
 **🐘 PHP Labs**
 
-<br>
-
 [![php-labs](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=php-labs&theme=radical)](https://github.com/xImDoctor/php-labs)
 
-</td></tr>
-</table></div>
+</td>
+</tr>
+</table>
+</div>
+
+> Other repos of series: [web-labs](https://github.com/xImDoctor/web-labs) · [mySQL-php-app](https://github.com/xImDoctor/mySQL-php-app)
 
 > With the high probability they already lost their relevance but you can still watch them.
 
+</details>
+
+<!--
+---
+
+## 🌱 Currently I am working on
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+[![AndEngine](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=AndEngine&theme=radical)](https://github.com/xImDoctor/AndEngine)
+
+</td>
+<td width="50%">
+
+[![Flotilla](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=Flotilla&theme=radical)](https://github.com/xImDoctor/Flotilla)
+
+</td>
+</tr>
+</table>
+</div>
+-->
 ---
 ## 📊 GitHub Activity Moment
 Ohh, snake ate all my activity!1! How terrible😥
@@ -355,13 +392,6 @@ Ohh, snake ate all my activity!1! How terrible😥
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ximdoctor&theme=onestar&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="ximdoctor" /></a></p>
 -->
 
-<p><img src="https://komarev.com/ghpvc/?username=ximdoctor&label=Profile%20views&color=0e75b6&style=flat" alt="ximdoctor" /></p>
-</div>
-
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ximdoctor&theme=onestar&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="ximdoctor" /></a> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ximdoctor&label=Profile%20views&color=0e75b6&style=flat" alt="ximdoctor" /> </p>
--->
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ximdoctor&label=Profile%20views&color=0e75b6&style=flat" alt="ximdoctor" /></p>
 
 <div align="center"><i>By <a href="https://github.com/xImDoctor" alt="xImDoctor">xImDoctor</a> with ❤️</i></div>
