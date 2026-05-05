@@ -199,7 +199,7 @@ The idea of the project is to analyze student engagement when watching education
 <tr>
 <td width="50%">
 
-[![xlib-maze-game](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=AndEngine&theme=radical)](https://github.com/xImDoctor/AndEngine)
+[![AndEngine](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=AndEngine&theme=radical)](https://github.com/xImDoctor/AndEngine)
 
 **🎮 AndEngine** `in progress`
 - 2.5D (pseudo-3D) Game Engine
@@ -313,11 +313,6 @@ The idea of the project is to analyze student engagement when watching education
 
 > Provided projects also can be seen in pinned repos, primarily the latest ones
 
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=xlib-maze-game&theme=radical)](https://github.com/xImDoctor/xlib-maze-game)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=eat-the-letter&theme=radical)](https://github.com/xImDoctor/eat-the-letter)
--->
-
 ## 🎓 Academic Work
 
 <details>
@@ -353,29 +348,8 @@ You can also check this from [**my GitHub Pages**](https://ximdoctor.github.io).
 
 </details>
 
-<!--
 ---
 
-## 🌱 Currently I am working on
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-[![AndEngine](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=AndEngine&theme=radical)](https://github.com/xImDoctor/AndEngine)
-
-</td>
-<td width="50%">
-
-[![Flotilla](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=Flotilla&theme=radical)](https://github.com/xImDoctor/Flotilla)
-
-</td>
-</tr>
-</table>
-</div>
--->
----
 ## 📊 GitHub Activity Moment
 Ohh, snake ate all my activity!1! How terrible😥
 <div align="center">
@@ -394,4 +368,4 @@ Ohh, snake ate all my activity!1! How terrible😥
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ximdoctor&label=Profile%20views&color=0e75b6&style=flat" alt="ximdoctor" /></p>
 
-<div align="center"><i>By <a href="https://github.com/xImDoctor" alt="xImDoctor">xImDoctor</a> with ❤️</i></div>
+<div align="center"><i>By <i>Andrew 'ImDoctor'</i> with ❤️</i></div>
