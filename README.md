@@ -165,14 +165,14 @@ The idea of the project is to analyze student engagement when watching education
 
 [![AndEngine](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=AndEngine&theme=radical)](https://github.com/xImDoctor/AndEngine)
 
-**🎮 AndEngine** `in progress`
+**🎮 AndEngine** `in progress` `v0.1.0 released!`
 - 2.5D (pseudo-3D) Game Engine
-- Inspired by classic games like **Doom**.
+- Inspired by classic games like **Doom**
 - Started with C++ and is in progress now
-- Currently made Raycasting renderer both with `step-based` and `DDA` algorithms
-- Realization with `WindowsAPI` as the console rendering and input system
+- Raycasting system both with `step-based` and `DDA` algorithms
 - Implemented deltaTime mechanism
-- In the process of migration to `OpenGL` technology as main renderer
+- Realization with `WindowsAPI` as the console rendering and input system
+- Currently moved on `OpenGL` as main renderer, but anyway supports console one
 </td>
 <td width="50%">
 
@@ -206,7 +206,7 @@ The idea of the project is to analyze student engagement when watching education
 
 [![SnakeConsoleGame](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=SnakeConsoleGame&theme=radical)](https://github.com/xImDoctor/SnakeConsoleGame)
 
-**🐍 Snake Console Game**
+**🐍 Snake Console Game** `completed`
 - Classic game implementation
 - Console-based interface with **dynamic redrawing**, **colored**, **music playing** using `Windows API`
 - C++ programming
