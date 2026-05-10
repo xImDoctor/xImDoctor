@@ -165,7 +165,7 @@ The idea of the project is to analyze student engagement when watching education
 
 [![AndEngine](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=AndEngine&theme=radical)](https://github.com/xImDoctor/AndEngine)
 
-**🎮 AndEngine** `in progress` `v0.1.0 released!`
+**🎮 AndEngine** `in progress` `v0.1.4 released!`
 - 2.5D (pseudo-3D) Game Engine
 - Inspired by classic games like **Doom**
 - Started with C++ and is in progress now
