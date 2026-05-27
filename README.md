@@ -44,8 +44,9 @@ I work with varios technologies across muliple domains - **from Machine Learning
 1. [Machine Learning & Data Analysis](#-machine-learning--data-analysis)
 2. [Mentor works](#%E2%80%8D-mentoring)
 3. [Games & Interesting projects](#-games--interesting-projects)
-4. [List of other projects](#-other-projects)
-5. [Academic (lab) works](#-academic-work)
+4. [Academic (lab) works](#-academic-work)
+
+<!-- 4. [List of other projects](#-other-projects) -->
 <!-- 6. [Currently working on](#-currently-i-am-working-on) -->
 
 ## 🔬 Machine Learning & Data Analysis
@@ -221,6 +222,8 @@ The idea of the project is to analyze student engagement when watching education
 </table>
 </div>
 
+<!--
+
 ### 📂 Other Projects
 
 
@@ -274,6 +277,7 @@ The idea of the project is to analyze student engagement when watching education
 
 </td></tr>
 </table></div>
+-->
 
 > Provided projects also can be seen in pinned repos, primarily the latest ones
 
