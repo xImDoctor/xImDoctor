@@ -43,8 +43,9 @@ I work with varios technologies across muliple domains - **from Machine Learning
 
 1. [Machine Learning & Data Analysis](#-machine-learning--data-analysis)
 2. [Mentor works](#%E2%80%8D-mentoring)
-3. [Games & Interesting projects](#-games--interesting-projects)
-4. [Academic (lab) works](#-academic-work)
+3. [Teamwork/Contribution](#teamwork)
+4. [Games & Interesting projects](#-games--interesting-projects)
+5. [Academic (lab) works](#-academic-work)
 
 <!-- 4. [List of other projects](#-other-projects) -->
 <!-- 6. [Currently working on](#-currently-i-am-working-on) -->
@@ -155,6 +156,23 @@ As a mentor at **Sirius Summer** project team I supervise the following project:
 </table>
 
 The idea of the project is to analyze student engagement when watching educational videos through the use of neural networks to determine emotions, eye condition, and head position.
+</div>
+
+## Teamwork
+Some team projects of mine:
+
+<div align="center">
+<table>
+<tr>
+<td>
+
+[![agent-knowgame](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=agent-knowgame&theme=radical)](https://github.com/xImDoctor/agent-knowgame)
+
+</td>
+</tr>
+</table>
+
+I'm working with colleagues on a simulation (game) project for AI agents, where they share knowledge, and we measure their freeriding.
 </div>
 
 ## 🎮 Games & Interesting Projects
