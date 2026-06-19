@@ -83,7 +83,9 @@ Core ML projects - course works and research.
 </div>
 
 #### 📊 Additional DA/ML Projects
-
+<details>
+<summary>Click to see more projects 😀</summary>
+  
 <div align="center">
 <table>
 <tr>
@@ -139,6 +141,7 @@ Core ML projects - course works and research.
 </tr>
 </table>
 </div>
+</details>
 
 ## 🧑‍🏫 Mentoring
 
