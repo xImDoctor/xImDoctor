@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I am <a href="https://ximdoctor.github.io">Andrew!</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" style="height:32px;"/>
 </h1>
-<h3 align="center">Software developer from Russia 🇷🇺 · ML enthusiast · Systems and game dev explorer</h3>
+<h3 align="center">Software developer from Russia 🇷🇺 · ML/DL & AI Safety enthusiast · System and game dev explorer</h3>
 
 ---
 
@@ -161,8 +161,8 @@ As a mentor at **Sirius Summer** project team I supervise the following project:
 The idea of the project is to analyze student engagement when watching educational videos through the use of neural networks to determine emotions, eye condition, and head position.
 </div>
 
-## Teamwork
-Some team projects of mine:
+## ⚒️ Teamwork
+Some team projects where I contribute:
 
 <div align="center">
 <table>
