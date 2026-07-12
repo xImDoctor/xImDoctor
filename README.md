@@ -169,7 +169,7 @@ Some team projects where I contribute:
 <tr>
 <td>
 
-[![agent-knowgame](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=agent-knowgame&theme=radical)](https://github.com/xImDoctor/agent-knowgame)
+[![propagate-bench](https://github-readme-stats.vercel.app/api/pin/?username=xImDoctor&repo=propagate-bench&theme=radical)](https://github.com/xImDoctor/propagate-bench)
 
 </td>
 </tr>
